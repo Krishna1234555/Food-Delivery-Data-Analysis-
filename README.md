@@ -5,5 +5,5 @@ This is a comprehensive data analysis project designed for students learning dat
 
 🤝 Contributing Contributions are welcome! 
  contact Name : Krishna Dhananjay Birajdar
- Email: [krishnabirajdar184@gmail.com
+ Email: krishnabirajdar184@gmail.com
  LinkedIn: https://www.linkedin.com/in/krishna-birajdar-/
